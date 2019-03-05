@@ -9,7 +9,7 @@
     <body>
 <?php 
     $folder = [
-        'fdfad fad fa sd1'=>[
+        'What is Lorem Ipsum'=>[
             'Where can I get some'=>[
                 [
                     'What is Lorem Ipsum?','Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
@@ -25,14 +25,14 @@
                 ]
             ]
         ],
-        'f asdf asdf asd fas2'=>[
+        'What is Lorem Ipsum'=>[
             'Where can I get some' => [
                 [
                     'What is Lorem Ipsum?','Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
                 ]
             ]
         ],
-        'f asdf asdf asd fas3'=>[
+        'What is Lorem Ipsum'=>[
             'Where can I get some' => [
                 [
                     'What is Lorem Ipsum?','Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
